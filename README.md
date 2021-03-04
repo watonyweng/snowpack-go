@@ -4,9 +4,7 @@
 
 ## Requirements
 
-- [![Platform Support](https://img.shields.io/badge/Node.js-12.18.1-green)](https://nodejs.org)
-- [![Platform Support](https://img.shields.io/badge/Vue-2.6.11-green)](https://vuejs.org)
-- [![Platform Support](https://img.shields.io/badge/Git-2.27.0-green)](https://git-scm.com)
+- [![Platform Support](https://img.shields.io/badge/Node.js-12.21.1-green)](https://nodejs.org)
 
 ## Environment
 
@@ -15,8 +13,8 @@
 
 ## Installation
 
-- git clone <https://github.com/watonyweng/vant-tour.git>
-- cd vant-tour && yarn
+- git clone <https://github.com/watonyweng/snowpack-go.git>
+- cd snowpack-go && yarn
 
 ## Start
 
