@@ -30,7 +30,7 @@
 
 ## Format
 
-- yarn fotmat
+- yarn format
 
 ## Lint
 
